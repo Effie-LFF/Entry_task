@@ -11,7 +11,7 @@ These are for Entry_Task
   
 - **queryTest.py文件的作用**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;给出用例数据，使用qtaf对该接口实现自动化测试
-&nbsp;&nbsp;&nbsp;&nbsp;其测试报告在文件 report.txt 中
+&nbsp;&nbsp;&nbsp;&nbsp;其测试报告在文件 [report.txt](https://github.com/Effie-LFF/Entry_task/blob/master/EntryTaskPro/report.txt) 中
 
 - **locustfile.py文件的作用**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;使用locust进行性能测试，其测试报告如下：
