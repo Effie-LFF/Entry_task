@@ -22,9 +22,11 @@ These are for Entry_Task
 ![](https://github.com/Effie-LFF/Entry_task/blob/master/imgs/number_of_users_1595337091.png)
 
 
-
 CVS文件为：
 
 request：https://github.com/Effie-LFF/Entry_task/blob/master/imgs/requests_1595337689.775852.csv <br>
 failure：https://github.com/Effie-LFF/Entry_task/blob/master/imgs/failures_1595337691.733969.csv <br>
 exception：https://github.com/Effie-LFF/Entry_task/blob/master/imgs/exceptions_1595337692.964329.csv
+
+
+用例设计：https://docs.google.com/spreadsheets/d/18bgTa8t8CNYWYTRU5Yl_ObMCCgRe1d6L5QXdZocyp3E/edit#gid=926287648
