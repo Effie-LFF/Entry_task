@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+POST,/query,500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/query,227
