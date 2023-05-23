@@ -3,5 +3,5 @@ flask_sqlalchemy==2.4.4
 PyMySQL==0.10.0
 numpy==1.19.0
 qtaf==5.4.35
-requests==2.24.0
+requests==2.31.0
 locust==1.1.1
